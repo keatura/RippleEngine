@@ -1,0 +1,12 @@
+{
+  "template_name": "bobby",
+  "components": {
+    "Sprite": { "image_name": "box_tile" },
+    "Position":  {"x" : 0, "y": 0},
+    "Rigidbody": {
+      "body_type": "static",
+      "width": 1,
+      "height": 1
+    }
+  }
+}

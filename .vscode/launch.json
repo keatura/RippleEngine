@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Run game_engine",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/game_engine_linux",
+      "args": [],
+      "cwd": "${workspaceFolder}",
+      "preLaunchTask": "build",
+      "stopAtEntry": false,
+      "MIMode": "lldb",
+      "miDebuggerPath": "/usr/bin/lldb",
+      "externalConsole": false
+    }
+  ]
+}

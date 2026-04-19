@@ -1,0 +1,51 @@
+{
+    "actors": [
+        {
+            "name": "debug_actor",
+            "components": {
+                "first_component": {
+                    "type": "OutputMessage",
+                    "message": "this"
+                },
+                "second_component": {
+                    "type": "OutputMessage",
+                    "message": "is"
+                }
+            }
+        },
+        {
+            "name": "debug_actor_2",
+            "components": {
+                "first_component": {
+                    "type": "OutputMessage",
+                    "message": "an"
+                },
+                "second_component": {
+                    "type": "OutputMessage",
+                    "message": "override!"
+                }
+            }
+        },
+        {
+            "name": "debug_actor_3",
+            "components": {
+                "b": {
+                    "type": "OutputMessage",
+                    "message": "third"
+                },
+                "c": {
+                    "type": "OutputMessage",
+                    "message": "fourth"
+                },
+                "a": {
+                    "type": "OutputMessage",
+                    "message": "first"
+                },
+                "aa": {
+                    "type": "OutputMessage",
+                    "message": "second"
+                }
+            }
+        }
+    ]
+}

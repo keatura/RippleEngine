@@ -1,0 +1,190 @@
+{
+  "actors": [
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": -3 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": -2 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": -1 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": 0 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": 1 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": 2 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": 3 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": 4 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": 5 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": 6 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": 7 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": 8 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": 9 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": 10 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": 11 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": 12 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": { "Position": { "x": 13 } }
+    },
+    {
+      "template_name": "bobby",
+      "components": {
+        "Position": {
+          "x": 3,
+          "y": -3
+        }
+      }
+    },
+    {
+      "template_name": "bobby",
+      "components": {
+        "Position": {
+          "x": 3,
+          "y": -4
+        }
+      }
+    },
+    {
+      "template_name": "bobby",
+      "components": {
+        "Position": {
+          "x": 2,
+          "y": -4
+        }
+      }
+    },
+    {
+      "template_name": "bobby",
+      "components": {
+        "Position": {
+          "x": 1,
+          "y": -4
+        }
+      }
+    },
+    {
+      "template_name": "bobby",
+      "components": {
+        "Position": {
+          "x": 0,
+          "y": -4
+        }
+      }
+    },
+    {
+      "template_name": "bobby",
+      "components": {
+        "Position": {
+          "x": -1,
+          "y": -4
+        }
+      }
+    },
+    {
+      "template_name": "bobby",
+      "components": {
+        "Position": {
+          "x": -2,
+          "y": -4
+        }
+      }
+    },
+    {
+      "template_name": "bobby",
+      "components": {
+        "Position": {
+          "x": -3,
+          "y": -4
+        }
+      }
+    },
+    {
+      "template_name": "bobby",
+      "components": {
+        "Position": {
+          "x": -3,
+          "y": -3
+        }
+      }
+    },
+    {
+      "template_name": "bobby",
+      "components": {
+        "Position": {
+          "x": -3,
+          "y": -2
+        }
+      }
+    },
+    {
+      "template_name": "bobby",
+      "components": {
+        "Position": {
+          "x": -3,
+          "y": -1
+        }
+      }
+    },
+    {
+      "template_name": "bobby",
+      "components": {
+        "Position": {
+          "x": 0,
+          "y": -3
+        },
+        "Rigidbody": {
+          "body_type": "dynamic",
+          "collider_type": "circle",
+          "trigger_type": "circle",
+          "radius": 0.5,
+          "friction": 0,
+          "bounciness": 0,
+          "gravity_scale": 2
+        },
+        "CharacterController": {}
+      }
+    }
+  ]
+}
